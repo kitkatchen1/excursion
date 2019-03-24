@@ -3,9 +3,9 @@ body {
   text-align: center;
 }
 
-.download_link {
-  color: Aquamarine;
+.downloadlink {
   font-size: 16px;
+  color: Aquamarine;
 }
 
 h1 {
@@ -31,5 +31,5 @@ p {
 
 .copyright {
   text-align: right;
-  color:Gray
+  color:Gray;
 }
